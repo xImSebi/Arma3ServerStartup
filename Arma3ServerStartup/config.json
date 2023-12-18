@@ -1,0 +1,11 @@
+{
+  "name": "Arma 3 Server",
+  "serverPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server",
+  "serverConfigPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server\\server.cfg",
+  "battleyePath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server\\battleye",
+  "profilesPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server\\profiles",
+  "modsPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3\\!Workshop",
+  "modListPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server\\modlist.txt",
+  "allowedModListPath": "D:\\SteamLibrary\\steamapps\\common\\Arma 3 Server\\allowedmodlist.txt",
+  "additionalStartupParameters": "-netlog"
+}
